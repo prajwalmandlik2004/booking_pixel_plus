@@ -1,6 +1,6 @@
 # 🧳 Booking.com Clone – Pixel Plus Hackathon Project
 
-## 🔗 **Live Demo**: 
+## 🔗 **Live Demo**: https://booking-pixel.netlify.app/
 
 ---
 
